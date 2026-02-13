@@ -1,3 +1,0 @@
-webdav:https://wajima.infini-cloud.net/dav/
-用户名：705287479
-密码：7NoKdtknLbvPw7TQ
